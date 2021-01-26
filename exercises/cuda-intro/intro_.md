@@ -122,7 +122,7 @@ for Fortran.
 
 You can only run on the backend nodes, so must submit the job to the
 batch system. To do this, you need to know your budget code. Typically
-this is `d171-$USER` - you can check by logging
+this is `dc116-$USER` - you can check by logging
 into SAFE, navigating to the relevant Cirrus login account and
 checking which budgets it can access.
 

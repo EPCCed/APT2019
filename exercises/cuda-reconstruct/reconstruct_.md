@@ -101,7 +101,7 @@ make
 ## Run on the batch system
 
 To run, you need to know your budget code. Typically
-this is `d171-$USER` - you can check by logging
+this is `dc116-$USER` - you can check by logging
 into SAFE, navigating to the relevant Cirrus login account and
 checking which budgets it can access.
 
